@@ -2,7 +2,7 @@ fx_version 'bodacious'
 game 'gta5'
 
 author 'LERO'
-description 'Deaktiviert Selbstaufrichten von Fahrzeugen wenn sie auf dem Dach liegen'
+description 'Deactivates self-righting of vehicles when they are on the roof'
 version '1.0.0'
 
 client_script 'client.lua'
